@@ -1,0 +1,22 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: white;
+    }
+    canvas {
+      display: block;
+    }
+    #saveBtn {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 10;
+      padding: 8px 12px;
+      border: none;
+      border-radius: 6px;
+      background-color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+      
